@@ -22,15 +22,13 @@
 با رفتن به آدرس زیر و کمک مالی هر چند کم ما رو در این پروژه یاری کنید:
 
 http://bookreader.2nate.com
-![Alt text](http://full/path/to/img.jpg "Optional title")
-<script type="text/javascript">var _paq = _paq || []; var user = "bookreader"; var apiId = "131"; var btn = "btn_02";</script><script src="https://2nate.com/api/script.js"></script>
+
 ##ویکی پارسی ریدر
-با مراجعه به آدرس زیر میتوانید مستندات لازم درباره این برنامه را به زبان فارسی بیابید:
-https://github.com/biomanw/parsireader/wiki
-وبسایت رسمی این برنامه:
-http://preader.ir
-ایمیل شخصی بنده:
-gshs99@gmail.com
+ با مراجعه به آدرس زیر میتوانید مستندات لازم درباره این برنامه را به زبان فارسی بیابید با عضویت در گیت هاب میتوانید به ما در توسعه مستندات کمک کنید:  
+https://github.com/biomanw/parsireader/wiki  
+وبسایت رسمی این برنامه:  
+http://preader.ir  
+ایمیل شخصی بنده:  
+gshs99@gmail.com  
 
-
-اگر برنامه نویس هستید یا به هر نحوی می توانید به توسعه این برنامه کمک کنید با من تماس بگیرید
+اگر برنامه نویس هستید یا به هر نحوی می توانید به توسعه این برنامه کمک کنید با من تماس بگیرید  
